@@ -13,15 +13,15 @@
 
 ---
 
-### <code>root@sirenko.tech ~ % cat about.txt</code> 
+### <code>root@sirenko.tech ~ % about.txt</code> 
 
 <code>right now: pursuing an engineering degree while interning as a dev, and writing a good chunk of C#/.NET on the side.</code>
 
-- <img src="https://api.iconify.design/mdi:school.svg?color=%234CAF50" width="16" align="center" /> <code>studying back-end / enterprise software engineering @ WSB Merito</code>
-- <img src="https://api.iconify.design/mdi:briefcase.svg?color=%234CAF50" width="16" align="center" /> <code>intern @ <a href="https://explitia.com">explitia</a> — since june 2026</code>
-- <img src="https://api.iconify.design/mdi:cog.svg?color=%234CAF50" width="16" align="center" /> <code>side projects mostly in C# / .NET + TypeScript</code>
-- <img src="https://api.iconify.design/mdi:map-marker.svg?color=%234CAF50" width="16" align="center" /> <code>based in Katowice, Poland</code>
-- <img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="16" align="center" /> <code>everything lives at <a href="https://sirenko.tech">sirenko.tech</a></code>
+- <img src="https://api.iconify.design/mdi:school.svg?color=%234CAF50" width="20" align="center" /> <code>studying back-end / enterprise software engineering @ WSB Merito</code>
+- <img src="https://api.iconify.design/mdi:briefcase.svg?color=%234CAF50" width="20" align="center" /> <code>intern @ <a href="https://explitia.com">explitia</a> — since june 2026</code>
+- <img src="https://api.iconify.design/mdi:cog.svg?color=%234CAF50" width="20" align="center" /> <code>side projects mostly in C# / .NET + TypeScript</code>
+- <img src="https://api.iconify.design/mdi:map-marker.svg?color=%234CAF50" width="20" align="center" /> <code>based in Katowice, Poland</code>
+- <img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="20" align="center" /> <code>everything lives at <a href="https://sirenko.tech">sirenko.tech</a></code>
 
 ---
 
@@ -68,12 +68,12 @@
 
 ---
 
-### <code>root@sirenko.tech ~ % tree socials/</code>
+### <code>root@sirenko.tech ~ % socials/</code>
 
-<br><code>├── </code><img src="https://api.iconify.design/mdi:telegram.svg?color=%234CAF50" width="20" align="center" /><code> t.me/dxrge</code>
-<br><code>├── </code><img src="https://api.iconify.design/mdi:email.svg?color=%234CAF50" width="20" align="center" /><code> sirenko.ivan77@gmail.com</code>
-<br><code>├── </code><img src="https://api.iconify.design/mdi:linkedin.svg?color=%234CAF50" width="20" align="center" /><code> linkedin.com/in/ivan-sirenko-313825412</code>
-<br><code>└── </code><img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="20" align="center" /><code> sirenko.tech</code>
+<br><img src="https://api.iconify.design/mdi:telegram.svg?color=%234CAF50" width="20" align="center" /><code>t.me/dxrge</code>
+<br><img src="https://api.iconify.design/mdi:email.svg?color=%234CAF50" width="20" align="center" /><code>sirenko.ivan77@gmail.com</code>
+<br><img src="https://api.iconify.design/mdi:linkedin.svg?color=%234CAF50" width="20" align="center" /><code>linkedin.com/in/ivan-sirenko-313825412</code>
+<br><img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="20" align="center" /><code>sirenko.tech</code>
 <br><br>
 
 <div align="center">
