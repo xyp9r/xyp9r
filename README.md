@@ -34,7 +34,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%230A0A0A.svg?style=for-the-badge&logo=html5&logoColor=4CAF50)
 ![CSS](https://img.shields.io/badge/css-%230A0A0A.svg?style=for-the-badge&logo=css&logoColor=4CAF50)
 ![React](https://img.shields.io/badge/React-%230A0A0A.svg?style=for-the-badge&logo=react&logoColor=4CAF50)
-![React Router](https://img.shields.io/badge/React%20Router-%230A0A0A.svg?style=for-the-badge&logo=reactrouter&logoColor=4CAF50)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%230A0A0A.svg?style=for-the-badge&logo=tailwindcss&logoColor=4CAF50)
 
 <br><code><b>./databases_&_architecture</b></code><br>
@@ -70,6 +69,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%230A0A0A.svg?style=for-the-badge&logo=nodedotjs&logoColor=4CAF50)
 ![Express](https://img.shields.io/badge/Express-%230A0A0A.svg?style=for-the-badge&logo=express&logoColor=4CAF50)
 ![Vite](https://img.shields.io/badge/Vite-%230A0A0A.svg?style=for-the-badge&logo=vite&logoColor=4CAF50)
+![React Router](https://img.shields.io/badge/React%20Router-%230A0A0A.svg?style=for-the-badge&logo=reactrouter&logoColor=4CAF50)
 
 <br><code><b>./databases_&_auth</b></code><br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230A0A0A.svg?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
