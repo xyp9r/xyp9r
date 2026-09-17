@@ -70,10 +70,10 @@
 
 ### <code>root@sirenko.tech ~ % tree socials/</code>
 
-<br><code>├── </code><img src="https://api.iconify.design/mdi:telegram.svg?color=%234CAF50" width="16" align="center" /><code> t.me/dxrge</code>
-<br><code>├── </code><img src="https://api.iconify.design/mdi:email.svg?color=%234CAF50" width="16" align="center" /><code>  sirenko.ivan77@gmail.com</code>
-<br><code>├── </code><img src="https://api.iconify.design/mdi:linkedin.svg?color=%234CAF50" width="16" align="center" /><code>  linkedin.com/in/ivan-sirenko-313825412</code>
-<br><code>└── </code><img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="16" align="center" /><code> sirenko.tech</code>
+<br><code>├── </code><img src="https://api.iconify.design/mdi:telegram.svg?color=%234CAF50" width="20" align="center" /><code> t.me/dxrge</code>
+<br><code>├── </code><img src="https://api.iconify.design/mdi:email.svg?color=%234CAF50" width="20" align="center" /><code> sirenko.ivan77@gmail.com</code>
+<br><code>├── </code><img src="https://api.iconify.design/mdi:linkedin.svg?color=%234CAF50" width="20" align="center" /><code> linkedin.com/in/ivan-sirenko-313825412</code>
+<br><code>└── </code><img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="20" align="center" /><code> sirenko.tech</code>
 <br><br>
 
 <div align="center">
