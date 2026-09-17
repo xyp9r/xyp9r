@@ -13,44 +13,36 @@
 
 ---
 
-### <code>root@sirenko.tech ~ % about.txt</code> 
+### <code>root@sirenko.tech ~ % about.txt</code>
 
 <code>right now: pursuing an engineering degree while interning as a dev, and writing a good chunk of C#/.NET on the side.</code>
 
 - <img src="https://api.iconify.design/mdi:school.svg?color=%234CAF50" width="20" align="center" /> <code>studying back-end / enterprise software engineering @ WSB Merito</code>
 - <img src="https://api.iconify.design/mdi:briefcase.svg?color=%234CAF50" width="20" align="center" /> <code>intern @ <a href="https://explitia.com">explitia</a> — since june 2026</code>
-- <img src="https://api.iconify.design/mdi:cog.svg?color=%234CAF50" width="20" align="center" /> <code>side projects mostly in C# / .NET + TypeScript</code>
+- <img src="https://api.iconify.design/mdi:cog.svg?color=%234CAF50" width="20" align="center" /> <code>side projects mostly in C# / .NET</code>
 - <img src="https://api.iconify.design/mdi:map-marker.svg?color=%234CAF50" width="20" align="center" /> <code>based in Katowice, Poland</code>
 - <img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="20" align="center" /> <code>everything lives at <a href="https://sirenko.tech">sirenko.tech</a></code>
 
 ---
 
-### <code>root@sirenko.tech ~ % ls tech-stack/</code>
+### <code>root@sirenko.tech ~ % ls active_stack/</code>
 
-<br><code><b>./languages</b></code><br>
-![JavaScript](https://img.shields.io/badge/JavaScript-%230A0A0A.svg?style=for-the-badge&logo=javascript&logoColor=4CAF50)
-![TypeScript](https://img.shields.io/badge/TypeScript-%230A0A0A.svg?style=for-the-badge&logo=typescript&logoColor=4CAF50)
+<br><code><b>./languages_&_frameworks</b></code><br>
 ![C#](https://img.shields.io/badge/C%23-%230A0A0A.svg?style=for-the-badge&logo=unity&logoColor=4CAF50)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%230A0A0A.svg?style=for-the-badge&logo=dotnet&logoColor=4CAF50)
 ![PHP](https://img.shields.io/badge/PHP-%230A0A0A.svg?style=for-the-badge&logo=php&logoColor=4CAF50)
 ![HTML5](https://img.shields.io/badge/HTML5-%230A0A0A.svg?style=for-the-badge&logo=html5&logoColor=4CAF50)
 ![CSS](https://img.shields.io/badge/css-%230A0A0A.svg?style=for-the-badge&logo=css&logoColor=4CAF50)
-![SQL](https://img.shields.io/badge/SQL-%230A0A0A.svg?style=for-the-badge&logo=sqlite&logoColor=4CAF50)
-
-<br><code><b>./frontend</b></code><br>
 ![React](https://img.shields.io/badge/React-%230A0A0A.svg?style=for-the-badge&logo=react&logoColor=4CAF50)
 ![React Router](https://img.shields.io/badge/React%20Router-%230A0A0A.svg?style=for-the-badge&logo=reactrouter&logoColor=4CAF50)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%230A0A0A.svg?style=for-the-badge&logo=tailwindcss&logoColor=4CAF50)
-![Vite](https://img.shields.io/badge/Vite-%230A0A0A.svg?style=for-the-badge&logo=vite&logoColor=4CAF50)
 
-<br><code><b>./backend_&_data</b></code><br>
-![Node.js](https://img.shields.io/badge/Node.js-%230A0A0A.svg?style=for-the-badge&logo=nodedotjs&logoColor=4CAF50)
-![Express](https://img.shields.io/badge/Express-%230A0A0A.svg?style=for-the-badge&logo=express&logoColor=4CAF50)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%230A0A0A.svg?style=for-the-badge&logo=dotnet&logoColor=4CAF50)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230A0A0A.svg?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
+<br><code><b>./databases_&_architecture</b></code><br>
+![SQL](https://img.shields.io/badge/SQL-%230A0A0A.svg?style=for-the-badge&logo=sqlite&logoColor=4CAF50)
 ![SQLite](https://img.shields.io/badge/SQLite-%230A0A0A.svg?style=for-the-badge&logo=sqlite&logoColor=4CAF50)
-![Prisma](https://img.shields.io/badge/Prisma-%230A0A0A.svg?style=for-the-badge&logo=prisma&logoColor=4CAF50)
 ![Swagger](https://img.shields.io/badge/Swagger-%230A0A0A.svg?style=for-the-badge&logo=swagger&logoColor=4CAF50)
 ![JWT](https://img.shields.io/badge/JWT-%230A0A0A.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=4CAF50)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-%230A0A0A.svg?style=for-the-badge&logo=dotnet&logoColor=4CAF50)
 
 > <code><i>also comfortable with: REST API design, DTO/CRUD patterns, OpenAPI/Swagger docs</i></code>
 
@@ -66,6 +58,22 @@
 ![Bash](https://img.shields.io/badge/Bash-%230A0A0A.svg?style=for-the-badge&logo=gnubash&logoColor=4CAF50)
 ![Zsh](https://img.shields.io/badge/Zsh-%230A0A0A.svg?style=for-the-badge&logo=zsh&logoColor=4CAF50)
 
+---
+
+### <code>root@sirenko.tech ~ % ls past_experiments/</code>
+
+> <code><i>// built past side-projects with these. syntax might be rusty, but concepts are there. currently 100% focused on C# / .NET.</i></code>
+
+<br><code><b>./javascript_ecosystem</b></code><br>
+![JavaScript](https://img.shields.io/badge/JavaScript-%230A0A0A.svg?style=for-the-badge&logo=javascript&logoColor=4CAF50)
+![TypeScript](https://img.shields.io/badge/TypeScript-%230A0A0A.svg?style=for-the-badge&logo=typescript&logoColor=4CAF50)
+![Node.js](https://img.shields.io/badge/Node.js-%230A0A0A.svg?style=for-the-badge&logo=nodedotjs&logoColor=4CAF50)
+![Express](https://img.shields.io/badge/Express-%230A0A0A.svg?style=for-the-badge&logo=express&logoColor=4CAF50)
+![Vite](https://img.shields.io/badge/Vite-%230A0A0A.svg?style=for-the-badge&logo=vite&logoColor=4CAF50)
+
+<br><code><b>./databases_&_auth</b></code><br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230A0A0A.svg?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
+![Prisma](https://img.shields.io/badge/Prisma-%230A0A0A.svg?style=for-the-badge&logo=prisma&logoColor=4CAF50)
 ---
 
 ### <code>root@sirenko.tech ~ % socials/</code>
