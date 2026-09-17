@@ -70,16 +70,16 @@
 
 ### <code>root@sirenko.tech ~ % tree socials/</code>
 
-<pre>
-socials/
-├── telegram   -> t.me/dxrge
-├── linkedin   -> linkedin.com/in/ivan-sirenko-313825412
-└── website    -> sirenko.tech
-</pre>
+<br><code>├── </code><img src="https://api.iconify.design/mdi:telegram.svg?color=%234CAF50" width="16" align="center" /><code> t.me/dxrge</code>
+<br><code>├── </code><img src="https://api.iconify.design/mdi:email.svg?color=%234CAF50" width="16" align="center" /><code>  sirenko.ivan77@gmail.com</code>
+<br><code>├── </code><img src="https://api.iconify.design/mdi:linkedin.svg?color=%234CAF50" width="16" align="center" /><code>  linkedin.com/in/ivan-sirenko-313825412</code>
+<br><code>└── </code><img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="16" align="center" /><code> sirenko.tech</code>
+<br><br>
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230A0A0A.svg?style=for-the-badge&logo=telegram&logoColor=4CAF50)](https://t.me/dxrge)
+[![Email](https://img.shields.io/badge/Email-%230A0A0A.svg?style=for-the-badge&logo=gmail&logoColor=4CAF50)](mailto:sirenko.ivan77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=4CAF50)](https://www.linkedin.com/in/ivan-sirenko-313825412/)
 [![Website](https://img.shields.io/badge/sirenko.tech-%230A0A0A.svg?style=for-the-badge&logoColor=4CAF50)](https://sirenko.tech)
 
