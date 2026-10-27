@@ -49,6 +49,7 @@
 ![SQL](https://img.shields.io/badge/SQL-%230A0A0A.svg?style=for-the-badge&logo=sqlite&logoColor=4CAF50)
 ![SQLite](https://img.shields.io/badge/SQLite-%230A0A0A.svg?style=for-the-badge&logo=sqlite&logoColor=4CAF50)
 ![Swagger](https://img.shields.io/badge/Swagger-%230A0A0A.svg?style=for-the-badge&logo=swagger&logoColor=4CAF50)
+![Scalar](https://img.shields.io/badge/Scalar-%230A0A0A.svg?style=for-the-badge&logo=scalar&logoColor=4CAF50)
 ![JWT](https://img.shields.io/badge/JWT-%230A0A0A.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=4CAF50)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-%230A0A0A.svg?style=for-the-badge&logo=dotnet&logoColor=4CAF50)
 
