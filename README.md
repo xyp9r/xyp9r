@@ -13,15 +13,24 @@
 
 ---
 
-### <code>root@sirenko.tech ~ % about.txt</code>
+### <code>root@sirenko.tech ~ % cat about.txt</code>
 
 <code>right now: pursuing an engineering degree while interning as a dev, and writing a good chunk of C#/.NET on the side.</code>
 
-- <img src="https://api.iconify.design/mdi:school.svg?color=%234CAF50" width="20" align="center" /> <code>studying back-end / enterprise software engineering @ WSB Merito</code>
-- <img src="https://api.iconify.design/mdi:briefcase.svg?color=%234CAF50" width="20" align="center" /> <code>intern @ <a href="https://explitia.com">explitia</a> — since june 2026</code>
-- <img src="https://api.iconify.design/mdi:cog.svg?color=%234CAF50" width="20" align="center" /> <code>side projects mostly in C# / .NET</code>
-- <img src="https://api.iconify.design/mdi:map-marker.svg?color=%234CAF50" width="20" align="center" /> <code>based in Katowice, Poland</code>
-- <img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="20" align="center" /> <code>everything lives at <a href="https://sirenko.tech">sirenko.tech</a></code>
+- 🎓 <code>studying back-end / enterprise software engineering @ WSB Merito</code>
+- 💼 <code>intern @ <a href="https://explitia.com">explitia</a> — since june 2026</code>
+- ⚙️ <code>side projects mostly in C# / .NET</code>
+- 📍 <code>based in Katowice, Poland</code>
+- 🌐 <code>everything lives at <a href="https://sirenko.tech">sirenko.tech</a></code>
+
+---
+
+### <code>root@sirenko.tech ~ % ./fetch_stats.sh</code>
+
+<div align="center" style="align-items: center; display: flex; justify-content: space-around;">
+  <img src="https://github-readme-stats.vercel.app/api?username=xyp9r&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=4CAF50&text_color=ffffff&icon_color=4CAF50&border_color=4CAF50&hide_border=false&hide_rank=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyp9r&layout=compact&theme=dark&bg_color=0A0A0A&title_color=4CAF50&text_color=ffffff&icon_color=4CAF50&border_color=4CAF50&hide_border=false" height="195" alt="Top Languages" />
+</div>
 
 ---
 
@@ -74,22 +83,17 @@
 <br><code><b>./databases_&_auth</b></code><br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%230A0A0A.svg?style=for-the-badge&logo=postgresql&logoColor=4CAF50)
 ![Prisma](https://img.shields.io/badge/Prisma-%230A0A0A.svg?style=for-the-badge&logo=prisma&logoColor=4CAF50)
+
 ---
 
-### <code>root@sirenko.tech ~ % socials/</code>
-
-<br><img src="https://api.iconify.design/mdi:telegram.svg?color=%234CAF50" width="20" align="center" /><code>t.me/dxrge</code>
-<br><img src="https://api.iconify.design/mdi:email.svg?color=%234CAF50" width="20" align="center" /><code>sirenko.ivan77@gmail.com</code>
-<br><img src="https://api.iconify.design/mdi:linkedin.svg?color=%234CAF50" width="20" align="center" /><code>linkedin.com/in/ivan-sirenko-313825412</code>
-<br><img src="https://api.iconify.design/mdi:web.svg?color=%234CAF50" width="20" align="center" /><code>sirenko.tech</code>
-<br><br>
+### <code>root@sirenko.tech ~ % ping socials/</code>
 
 <div align="center">
 
 [![Telegram](https://img.shields.io/badge/Telegram-%230A0A0A.svg?style=for-the-badge&logo=telegram&logoColor=4CAF50)](https://t.me/dxrge)
 [![Email](https://img.shields.io/badge/Email-%230A0A0A.svg?style=for-the-badge&logo=gmail&logoColor=4CAF50)](mailto:sirenko.ivan77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A0A0A.svg?style=for-the-badge&logo=linkedin&logoColor=4CAF50)](https://www.linkedin.com/in/ivan-sirenko-313825412/)
-[![Website](https://img.shields.io/badge/sirenko.tech-%230A0A0A.svg?style=for-the-badge&logoColor=4CAF50)](https://sirenko.tech)
+[![Website](https://img.shields.io/badge/sirenko.tech-%230A0A0A.svg?style=for-the-badge&logo=googlechrome&logoColor=4CAF50)](https://sirenko.tech)
 
 </div>
 
