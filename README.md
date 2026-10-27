@@ -36,7 +36,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyp9r&layout=compact&theme=dark&bg_color=0A0A0A&title_color=4CAF50&text_color=ffffff&icon_color=4CAF50&border_color=4CAF50&hide_border=false" height="195" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyp9r&layout=compact&theme=dark&bg_color=0A0A0A&title_color=4CAF50&text_color=ffffff&icon_color=4CAF50&border_color=4CAF50&hide_border=false" height="255" alt="Top Languages" />
 </div>
 
 ---
