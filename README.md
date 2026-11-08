@@ -83,7 +83,6 @@
 <br><code><b>./javascript_ecosystem</b></code><br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-%230A0A0A.svg?style=for-the-badge&logo=javascript&logoColor=4CAF50)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%230A0A0A.svg?style=for-the-badge&logo=typescript&logoColor=4CAF50)
-![React (Without JSX)](https://img.shields.io/badge/React-%230A0A0A.svg?style=for-the-badge&logo=react&logoColor=4CAF50)
 ![Node.js](https://img.shields.io/badge/Node.js-%230A0A0A.svg?style=for-the-badge&logo=nodedotjs&logoColor=4CAF50)
 ![Express](https://img.shields.io/badge/Express-%230A0A0A.svg?style=for-the-badge&logo=express&logoColor=4CAF50)
 ![Vite](https://img.shields.io/badge/Vite-%230A0A0A.svg?style=for-the-badge&logo=vite&logoColor=4CAF50)
