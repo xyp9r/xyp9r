@@ -19,7 +19,7 @@
 
 - 🎓 <code>studying back-end / enterprise software engineering @ WSB Merito</code>
 - 💼 <code>intern @ <a href="https://explitia.com">explitia</a> — since june 2026</code>
-- ⚙️ <code>side projects mostly in C# / .NET</code>
+- ⚙️ <code>side projects mostly in TypeScript / React</code>
 - 📍 <code>based in Katowice, Poland</code>
 - 🌐 <code>everything lives at <a href="https://sirenko.tech">sirenko.tech</a></code>
 
